@@ -16,13 +16,6 @@ Em um datacenter corporativo convencional, a empresa é responsável por manter 
 # Responsabilidades na Nuvem
 Com a computação em nuvem, essas responsabilidades são divididas. O provedor de nuvem assume a responsabilidade pela segurança física, energia, resfriamento e conectividade de rede. O consumidor, por sua vez, é responsável pelos dados armazenados, controle de acesso e pelas identidades dos usuários, serviços e dispositivos autorizados a acessar a nuvem. Dependendo do serviço contratado, algumas responsabilidades podem variar. Por exemplo, ao utilizar um banco de dados SQL na nuvem, o provedor é responsável por mantê-lo, mas o consumidor deve gerenciar os dados inseridos. Caso o consumidor instale um banco de dados em uma máquina virtual, ele também será responsável por atualizações e patches desse banco.
 
-# Tipos de Serviço em Nuvem e Distribuição de Responsabilidades
-O modelo de responsabilidade compartilhada está diretamente relacionado ao tipo de serviço em nuvem utilizado:
-
-•	IaaS (Infraestrutura como Serviço): A maior parte da responsabilidade permanece com o consumidor, enquanto o provedor cuida da infraestrutura física básica.
-•	PaaS (Plataforma como Serviço): As responsabilidades são distribuídas de forma equilibrada entre provedor e consumidor.
-•	SaaS (Software como Serviço): O provedor assume a maior parte das responsabilidades, restando ao consumidor a gestão dos dados e acessos.
-
 Responsabilidades Sempre do Consumidor
 •	Gestão das informações e dados armazenados na nuvem
 •	Controle dos dispositivos autorizados a acessar a nuvem
