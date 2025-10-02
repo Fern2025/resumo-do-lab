@@ -1,4 +1,4 @@
-# resumo-do-lab
+# Resumo-do-lab
 Repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 Computação em Nuvem: Conceitos, Responsabilidades e Modelos de Implantação
